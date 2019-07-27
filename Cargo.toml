@@ -1,0 +1,9 @@
+[package]
+name = "multi_channel"
+version = "0.1.0"
+authors = ["MasanaoKobayashi <instance0000@icloud.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
